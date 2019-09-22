@@ -1,4 +1,4 @@
-node-nfqueue
+node-nfqueue-ng
 ============
 
 This is a node.js binding to the linux netfilter NFQUEUE. It allows to filter packets thought a javascript program.
