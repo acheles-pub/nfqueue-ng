@@ -2,7 +2,8 @@ node-nfqueue
 ============
 
 This is a node.js binding to the linux netfilter NFQUEUE. It allows to filter packets thought a javascript program.
-This is done asynchronously using libuv poll.
+This is done asynchronously using libuv poll. Forked and modified for the last version of NodeJS https://github.com/atoy40/node-nfqueue
+
 
 ## Example
 
