@@ -1,0 +1,8 @@
+extends layout
+
+block content
+  p Response: <br> #{message}
+  p Status: #{status}
+  if workMode && ip
+    p WorkMode: #{workMode}
+    p WAN IP: #{ip}
